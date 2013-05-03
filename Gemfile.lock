@@ -1,0 +1,33 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    awesome_print (1.1.0)
+    coderay (1.0.9)
+    i18n (0.6.4)
+    mail (2.5.3)
+      i18n (>= 0.4.0)
+      mime-types (~> 1.16)
+      treetop (~> 1.4.8)
+    method_source (0.8.1)
+    mime-types (1.23)
+    moji (1.6)
+    polyglot (0.3.3)
+    pry (0.9.12.1)
+      coderay (~> 1.0.5)
+      method_source (~> 0.8)
+      slop (~> 3.4)
+    slop (3.4.4)
+    test-unit (2.5.4)
+    treetop (1.4.12)
+      polyglot
+      polyglot (>= 0.3.1)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  awesome_print
+  mail
+  moji
+  pry
+  test-unit
